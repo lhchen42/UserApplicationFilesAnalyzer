@@ -1,2 +1,2 @@
 # UserApplicationsAnalyzer
-Analysis and process 100k+ unorganised user applications, mixed of json and pdfs. Extract user informations.
+Analysis and process user applications mixed of json and pdfs and extract user informations
